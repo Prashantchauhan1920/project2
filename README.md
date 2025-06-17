@@ -1,3 +1,3 @@
  # Project2
- This repo is creqated through local system.
- 
+ This repo is created through local system.
+ Made by prashant chauhan.
